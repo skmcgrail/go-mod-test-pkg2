@@ -1,4 +1,10 @@
 github.com/skmcgrail/go-mod-test-pkg1 v1.0.0 h1:IZRjfuAIjrkTRqT86JPiWGuS41UuNGfT2h+E3cuWDXk=
 github.com/skmcgrail/go-mod-test-pkg1 v1.0.0/go.mod h1:ENnG8eFp94gnb7H8Dd76+LWD5s8PPu+CDj4mNNbiGA8=
+github.com/skmcgrail/go-mod-test-pkg1 v1.1.0 h1:MApnBZNwWl/Z8Bxg9UZMijbC9yq44bUwuluY/zpcneg=
+github.com/skmcgrail/go-mod-test-pkg1 v1.1.0/go.mod h1:ENnG8eFp94gnb7H8Dd76+LWD5s8PPu+CDj4mNNbiGA8=
 github.com/skmcgrail/go-mod-test-pkg1/services/serviceA v1.0.0 h1:d9AqMKSOFVwUVYftPM9+IbZqbCuYGd7WP5Mei/FZCVo=
 github.com/skmcgrail/go-mod-test-pkg1/services/serviceA v1.0.0/go.mod h1:TXR8c9hKnnxm06DPVaqp9hOsx2xNEtPB3Orbo7QWlTw=
+github.com/skmcgrail/go-mod-test-pkg1/services/serviceA v1.1.0-alpha h1:cF5Ju5ZecUnzSwannTAqXIJV6fd3ORRG3fPnr7UyVcs=
+github.com/skmcgrail/go-mod-test-pkg1/services/serviceA v1.1.0-alpha/go.mod h1:HjTOoQ9rNIraYHJDlTmsj9rszXXoJPpMgE45OoIfZ6A=
+github.com/skmcgrail/go-mod-test-pkg1/services/serviceA v1.1.0 h1:lS/y5/lYZ9cC66TnjQR7O4oGva7gzHydpcRB2ERWaaw=
+github.com/skmcgrail/go-mod-test-pkg1/services/serviceA v1.1.0/go.mod h1:HjTOoQ9rNIraYHJDlTmsj9rszXXoJPpMgE45OoIfZ6A=
