@@ -1,0 +1,4 @@
+github.com/skmcgrail/go-mod-test-pkg1 v1.0.0 h1:IZRjfuAIjrkTRqT86JPiWGuS41UuNGfT2h+E3cuWDXk=
+github.com/skmcgrail/go-mod-test-pkg1 v1.0.0/go.mod h1:ENnG8eFp94gnb7H8Dd76+LWD5s8PPu+CDj4mNNbiGA8=
+github.com/skmcgrail/go-mod-test-pkg1/services/serviceA v1.0.0 h1:d9AqMKSOFVwUVYftPM9+IbZqbCuYGd7WP5Mei/FZCVo=
+github.com/skmcgrail/go-mod-test-pkg1/services/serviceA v1.0.0/go.mod h1:TXR8c9hKnnxm06DPVaqp9hOsx2xNEtPB3Orbo7QWlTw=
