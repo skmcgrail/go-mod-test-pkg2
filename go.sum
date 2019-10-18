@@ -6,3 +6,5 @@ github.com/skmcgrail/go-mod-test-pkg1/services/serviceA/v2 v2.0.0-preview h1:f70
 github.com/skmcgrail/go-mod-test-pkg1/services/serviceA/v2 v2.0.0-preview/go.mod h1:bpmS2PmJ73KEOrVeLYLO6sTbgXbKcq/OsI/MB1GlaA8=
 github.com/skmcgrail/go-mod-test-pkg1/v2 v2.0.0-preview h1:BKAi5GS3ZRqXxRz4ByDu9UYEO4uQAMhLdB+jONgbR00=
 github.com/skmcgrail/go-mod-test-pkg1/v2 v2.0.0-preview/go.mod h1:kxBk0LuIhqWtZ4m0ZHjofQHBo6+xM9X6i8SxYtf4d8Q=
+mcgrail.xyz/v2 v2.1.0 h1:jZiMCwMW4jW+OR4jRPqdKguPTLpVtw/SW8kaCE1xfzI=
+mcgrail.xyz/v2 v2.1.0/go.mod h1:arETOJzQrt4aY1CtAV9jwMVm1BUalpSteNnl8HpXxDE=
